@@ -1,2 +1,2 @@
-# Projeto-Site-de-Notcias
+# Projeto-Site-de-Noticias
  
